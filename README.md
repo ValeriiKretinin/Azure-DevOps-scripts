@@ -5,7 +5,7 @@ This repository contains a collection of scripts tailored to streamline operatio
 ## Content
 
 1. [Golang DB Migrate](./golang_db_migrate/readme.md) - A collection of scripts designed to run in Azure DevOps releases. They manage logging into HashiCorp's Vault, reading secrets, and executing migrations with `golang-migrate`.
-2. [Update Approvers](./update_approvers/readme.md) - A script that automates the process of updating approvers in all releases of a specified Azure DevOps project.
+2. [Update Approvers](./releases_configure/readme.md) - A script that automates the process of updating approvers in all releases of a specified Azure DevOps project.
 
 ## Getting Started
 
